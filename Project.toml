@@ -1,6 +1,6 @@
 name = "tree_sitter_c_jll"
 uuid = "af41be9f-6c08-5eeb-b278-7a4b044e283f"
-version = "0.16.0+0"
+version = "0.16.0+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
